@@ -4207,5 +4207,12 @@
         "author": "Snezhig",
         "description": "Lets you define a title in frontmatter to be displayed as the filename",
         "repo": "Snezhig/obsidian-front-matter-title"
+    },
+    {
+        "id": "obsidian-thinking-board",
+        "name": "Thinking Board",
+        "author": "Gabriel Poça",
+        "description": "Thinking Board is an Obsidian plugin for mind mapping, planning, mood boards, etc.",
+        "repo": "gabrielpoca/obsidian-thinking-board"
     }
 ]
